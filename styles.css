@@ -303,7 +303,7 @@ footer {
     display: flex;
 }
 .footer-images img {
-    width: 400px;
+    width: 500px;
     height: 50vh;
     object-fit: cover;
 }
